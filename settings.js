@@ -8,7 +8,7 @@ const {
 
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
-   alfa: 'https://api.Gianbot1.my.id', //apabila link api eror, segera laporkan ke owner
+   alfa: 'https://api.zeeoneofc.my.id', //apabila link api eror, segera laporkan ke owner
 }
 
 // Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
